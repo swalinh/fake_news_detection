@@ -5,4 +5,4 @@ In this project, we have built a classifier model using NLP that can identify ne
 News Dataset https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 # Link to Video Demonstration
-Video Demonstration
+Video Demonstration https://youtu.be/oKahSFgsVbs 
